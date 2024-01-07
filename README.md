@@ -17,10 +17,11 @@
 
 ```javascript
 const PedroReyes = {
-  code: [Angular, Javascript, HTML, CSS, R, SQL, no-sql, Solidity, Java, C#],
-  tools: [Angular, Node, Firebase, Springboot],
-  IDE: [VSCode,IntelliJ],
-  architecture: ["microservices", "web development", "design system pattern"],
+  languages: [Javascript, Typescript, HTML, CSS, R, SQL, no-sql, Solidity, Java, C#, Solidity],
+  frameworks: [Angular, NextJS, Astro],
+  libraries: [React, Firebase, Springboot, Hardhat, Foundry, Truffle, Node, Deno],
+  IDE: [VSCode, IntelliJ],
+  architecture: ["Github Actions", "microservices", "web development", "design system pattern"],
   companies: 
   [
     {
