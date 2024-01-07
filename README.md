@@ -24,6 +24,11 @@ const PedroReyes = {
   companies: 
   [
     {
+      title: "Nimbus Platform",
+      description: "DeFi project - swap (Liquidity Pools), stakings, NFTs",
+      url: "https://nimbusplatform.io/"
+    }
+    {
       title: "The Workshop",
       description: "Development of casino and bet games!",
       url: "https://theworkshop.com/es/"
