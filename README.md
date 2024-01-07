@@ -17,11 +17,36 @@
 
 ```javascript
 const PedroReyes = {
-  languages: [Javascript, Typescript, HTML, CSS, R, SQL, no-sql, Solidity, Java, C#, Solidity],
-  frameworks: [Angular, NextJS, Astro],
-  libraries: [React, Firebase, Springboot, Hardhat, Foundry, Truffle, Node, Deno],
-  IDE: [VSCode, IntelliJ],
-  architecture: ["Github Actions", "microservices", "web development", "design system pattern"],
+  languages: [
+    Javascript,
+    Typescript,
+    Solidity
+    HTML,
+    CSS,
+    R,
+    SQL,
+    no-sql,
+    Java,
+    C#
+  ],
+  frameworks: [
+    NextJS,
+    Astro
+    Angular,
+  ],
+  libraries: [
+    React,
+    Firebase,
+    Springboot,
+    Hardhat,
+    Foundry,
+    Truffle,
+    Node,
+    Deno
+  ],
+  IDE: [ VSCode ],
+  DevOps: [ "Github Actions" ]
+  architecture: ["microservices", "web development", "design system pattern"],
   companies: 
   [
     {
@@ -45,7 +70,7 @@ const PedroReyes = {
       url: "https://www.uma.es/departamentos/info/4608/departamento-lenguajes-y-ciencias-de-la-computacion/"
     }
  ],
- challenge: "I am about to start the creation of my own ethereum token, ICO and exchange selling"
+  
 }
 ```
 
